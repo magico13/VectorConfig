@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorConfig", "VectorConfig\VectorConfig.csproj", "{639A6D63-187D-4E50-AF71-55F72DB5A05C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountManagement", "AccountManagement\AccountManagement.csproj", "{41226B94-D074-4DEC-A7FD-679986F0184A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639A6D63-187D-4E50-AF71-55F72DB5A05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639A6D63-187D-4E50-AF71-55F72DB5A05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639A6D63-187D-4E50-AF71-55F72DB5A05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639A6D63-187D-4E50-AF71-55F72DB5A05C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41226B94-D074-4DEC-A7FD-679986F0184A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41226B94-D074-4DEC-A7FD-679986F0184A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41226B94-D074-4DEC-A7FD-679986F0184A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41226B94-D074-4DEC-A7FD-679986F0184A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA268D36-4102-4079-96B1-9CB484A75F68}
+	EndGlobalSection
+EndGlobal
