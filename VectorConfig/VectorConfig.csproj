@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AccountManagement\AccountManagement.csproj" />
+    <ProjectReference Include="..\VectorBLE\VectorBLE.csproj" />
   </ItemGroup>
 
 </Project>
