@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="libsodium" Version="1.0.17.1" />
+    <PackageReference Include="libsodium-netcore" Version="0.10.0" />
+  </ItemGroup>
+
+</Project>
